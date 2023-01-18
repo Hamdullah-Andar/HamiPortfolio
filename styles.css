@@ -2,14 +2,10 @@
 
 html {
   font-family: sans-serif, 'Poppins';
-
-  /* height: 100vh; */
-  /* max-width: 100%; */
 }
 
 body {
   background-color: #e5e5e5;
-  /* height: 918px; */
   width: 375px;
   height: 100vh;
   max-width: 100%;
@@ -26,8 +22,6 @@ header {
 main {
   background-image: url("images/header-shapes\ mobile.svg"), url("images/header-background-mobile\(4\).svg");
   height: 100vh;
-  /* max-width: 100%; */
-  /* width: 375px; */
   background-repeat: no-repeat;
   padding-top: 120px;
 }
