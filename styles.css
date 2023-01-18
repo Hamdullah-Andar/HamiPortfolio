@@ -1,32 +1,40 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;700&display=swap");
 
 html {
-  font-family: sans-serif, 'Poppinsp';
+  font-family: sans-serif, 'Poppins';
+
+  /* height: 100vh; */
+  /* max-width: 100%; */
 }
 
 body {
   background-color: #e5e5e5;
-  height: 918px;
+  /* height: 918px; */
   width: 375px;
+  height: 100vh;
+  max-width: 100%;
   margin: 0;
 }
 
 header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
   background-color: white;
 }
 
 main {
   background-image: url("images/header-shapes\ mobile.svg"), url("images/header-background-mobile\(4\).svg");
-  height: 918px;
-  width: 375px;
+  height: 100vh;
+  /* max-width: 100%; */
+  /* width: 375px; */
   background-repeat: no-repeat;
   padding-top: 120px;
 }
 
 .navigation {
-  text-decoration: none;
   display: flex;
-  justify-content: space-between;
+  text-decoration: none;
 }
 
 .logo {
@@ -35,7 +43,6 @@ main {
   margin-left: 24px;
   width: 76px;
   height: 20px;
-  font-family: sans-serif, 'Poppinsp';
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -59,7 +66,6 @@ main {
   margin: 0 24px;
   width: 327px;
   height: 150px;
-  font-family: sans-serif, 'Poppinsp';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -72,7 +78,6 @@ main {
   margin: 12px 24px 0 24px;
   width: 327px;
   height: 146px;
-  font-family: sans-serif, 'Poppinsp';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -86,7 +91,6 @@ main {
 .connect {
   width: 127px;
   height: 24px;
-  font-family: sans-serif, 'Poppinsp';
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -101,7 +105,7 @@ main {
 .link {
   display: flex;
   list-style: none;
-  gap: 10px;
+  gap: 19px;
   align-items: center;
   margin-right: 24px;
   padding-left: 24px;
