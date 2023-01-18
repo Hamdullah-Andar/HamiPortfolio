@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Portfolio] <a name="about-project"></a>
 
 
-**[Portfolio]** is a the first project to setup the linters
+**[Portfolio]** is a main section of the portfolio project
 
 
 ## 🛠 Built With <a name="HTML, CSS"></a>
