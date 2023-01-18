@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;700&display=swap");
+
+html {
+  font-family: sans-serif, 'Poppins';
+}
+
+body {
+  background-color: #e5e5e5;
+  width: 375px;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: white;
+}
+
+main {
+  background-image: url("images/header-shapes\ mobile.svg"), url("images/header-background-mobile\(4\).svg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  padding-top: 120px;
+}
+
+.navigation {
+  display: flex;
+  text-decoration: none;
+}
+
+.logo {
+  text-decoration: none;
+  margin-top: 58px;
+  margin-left: 24px;
+  width: 76px;
+  height: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+}
+
+.humburger {
+  margin-top: 68px;
+  margin-right: 36px;
+}
+
+.logo:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  margin: 0 24px;
+  width: 327px;
+  height: 150px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+}
+
+.hero-details {
+  margin: 12px 24px 0 24px;
+  width: 327px;
+  height: 146px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.connect {
+  width: 127px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 12px 234px 0 24px;
+}
+
+.link {
+  display: flex;
+  list-style: none;
+  gap: 19px;
+  align-items: center;
+  margin-right: 24px;
+  padding-left: 24px;
+}
