@@ -328,13 +328,38 @@ main {
   gap: 10px;
 }
 
-.all-skills {
-  padding-left: 0;
+.align-languages {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
-.skills {
+.all-skills {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.first-skill {
   display: flex;
-  justify-content: space-between;
   list-style: none;
-  padding-left: 10px;
+  padding-left: 0;
+  gap: 160px;
+}
+
+.second-skill {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  gap: 175px;
+}
+
+.line {
+  width: 100%;
+}
+
+.third-skill {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  gap: 235px;
 }
