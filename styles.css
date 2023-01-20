@@ -252,6 +252,16 @@ main {
   color: #396df2;
 }
 
+.project-btn:hover {
+  color: #fff;
+  background-color: #396df2;
+}
+
+.project-btn:active {
+  color: #fff;
+  background-color: #04255c;
+}
+
 .about {
   background-image: url("images/Base-about-my-self.svg");
   padding: 114px 24px 0 24px;
@@ -312,6 +322,16 @@ main {
   color: #396df2;
   background: #fff;
   border: 2px solid #dfe1e6;
+}
+
+.get-resume:hover {
+  color: #fff;
+  background-color: #396df2;
+}
+
+.get-resume:active {
+  color: #fff;
+  background-color: #04255c;
 }
 
 .about-languages {
