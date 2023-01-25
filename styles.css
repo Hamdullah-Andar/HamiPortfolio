@@ -480,6 +480,16 @@ textarea {
   color: #6070ff;
 }
 
+.contact-form-button:hover {
+  color: #fff;
+  background-color: #396df2;
+}
+
+.contact-form-button:active {
+  color: #fff;
+  background-color: #04255c;
+}
+
 .contact-form-end-image {
   margin-left: 100px;
 }
