@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Portfolio] <a name="about-project"></a>
 
 
-**[Portfolio]** is a main and work/project section of the portfolio project
+**[Portfolio]** have all different section including main, projects and contact form
 
 
 ## 🛠 Built With <a name="HTML, CSS"></a>
