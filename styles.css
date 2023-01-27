@@ -317,13 +317,13 @@ main {
   width: 158px;
   height: 50px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 520;
   font-size: 17px;
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #396df2;
   background: #fff;
-  border: 2px solid #dfe1e6;
+  border: 2px solid #989ade;
 }
 
 .get-resume:hover {
@@ -525,6 +525,7 @@ textarea {
     background-image: none;
     background-image: url("images/desktop-Header-bg.svg"), url("images/desktop-header-background-shape.svg");
     background-repeat: no-repeat;
+    background-size: contain;
     background-color: #e5e5e5;
     padding-bottom: 350px;
     display: grid;
@@ -596,30 +597,63 @@ textarea {
   .card-title {
     height: 50px;
     width: 50%;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #091e42;
   }
 
   .work {
     margin: 0;
+    width: 310px;
+  }
+
+  .canopy {
+    color: #344563;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .back-end-dev {
+    width: 130px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #6b778c;
+  }
+
+  .year {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #6b778c;
   }
 
   .card-details {
     width: 80%;
     height: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
   }
 
   .project-btn {
     margin-top: 0;
+    box-sizing: border-box;
+    padding: 16px;
+    background: #fff;
+    border: 2px solid #98a8cf;
+    border-radius: 16px;
   }
 
   .card2 {
     background-image: url("images/desktop-Snapshoot-Portfolio2.svg");
     background-repeat: no-repeat;
-
-    /* background-position: right; */
     background-position: 660px 24px;
     display: flex;
-
-    /* background-image: none; */
   }
 
   .desktop-card-details-left {
@@ -644,8 +678,6 @@ textarea {
   .card4 {
     background-image: url("images/desktop-Snapshoot-Portfolio4.svg");
     background-repeat: no-repeat;
-
-    /* background-position: 24px 24px; */
     background-position: 660px 24px;
     display: flex;
   }
@@ -745,10 +777,14 @@ textarea {
 
   input {
     width: 450px;
+    border-radius: 0;
+    padding-left: 15px;
   }
 
   textarea {
     width: 450px;
+    border-radius: 0;
+    padding: 15px 0 0 15px;
   }
 
   .contact-btn {
