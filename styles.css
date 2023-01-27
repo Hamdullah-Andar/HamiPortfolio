@@ -614,9 +614,11 @@ textarea {
   .card2 {
     background-image: url("images/desktop-Snapshoot-Portfolio2.svg");
     background-repeat: no-repeat;
+
     /* background-position: right; */
     background-position: 660px 24px;
     display: flex;
+
     /* background-image: none; */
   }
 
@@ -642,6 +644,7 @@ textarea {
   .card4 {
     background-image: url("images/desktop-Snapshoot-Portfolio4.svg");
     background-repeat: no-repeat;
+
     /* background-position: 24px 24px; */
     background-position: 660px 24px;
     display: flex;
