@@ -493,3 +493,262 @@ textarea {
 .contact-form-end-image {
   margin-left: 100px;
 }
+
+.desktop-navigation {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: #e5e5e5;
+    width: 100%;
+  }
+
+  .navigation {
+    display: none;
+  }
+
+  .desktop-navigation {
+    display: flex;
+    margin: 25px 154px 0 0;
+  }
+
+  .desktop-navigation ul a {
+    text-decoration: none;
+  }
+
+  .logo {
+    margin: 25px auto 0 154px;
+  }
+
+  main {
+    background-image: none;
+    background-image: url("images/desktop-Header-bg.svg"), url("images/desktop-header-background-shape.svg");
+    background-repeat: no-repeat;
+    background-color: #e5e5e5;
+    padding-bottom: 350px;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 466px;
+  }
+
+  .headline-section {
+    width: 500px;
+    margin: 100px 0 100px 225px;
+  }
+
+  .hero {
+    width: 350px;
+    margin: 0;
+  }
+
+  .hero-details {
+    width: 750px;
+    height: inherit;
+    margin: 0;
+  }
+
+  .connect {
+    margin: 0;
+    margin: 20px 0 0;
+  }
+
+  .link {
+    padding: 0;
+    margin: 15px 0;
+  }
+
+  .projects {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+  }
+
+  .portfolio-projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 80%;
+    height: 500px;
+  }
+
+  .card-image {
+    display: none;
+  }
+
+  .card1 {
+    background-image: url("images/desktop-Snapshoot-Portfolio1.svg");
+    background-repeat: no-repeat;
+    background-position: 24px 24px;
+  }
+
+  .desktop-card-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 70%;
+    padding-bottom: 80px;
+  }
+
+  .card-title {
+    height: 50px;
+    width: 50%;
+  }
+
+  .work {
+    margin: 0;
+  }
+
+  .card-details {
+    width: 80%;
+    height: 50px;
+  }
+
+  .project-btn {
+    margin-top: 0;
+  }
+
+  .card2 {
+    background-image: url("images/desktop-Snapshoot-Portfolio2.svg");
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    background-position: 660px 24px;
+    display: flex;
+    /* background-image: none; */
+  }
+
+  .desktop-card-details-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 70%;
+    padding: 48px 0 80px 48px;
+  }
+
+  .card-details-left {
+    width: 45%;
+  }
+
+  .card3 {
+    background-image: url("images/desktop-Snapshoot-Portfolio3.svg");
+    background-repeat: no-repeat;
+    background-position: 24px 24px;
+  }
+
+  .card4 {
+    background-image: url("images/desktop-Snapshoot-Portfolio4.svg");
+    background-repeat: no-repeat;
+    /* background-position: 24px 24px; */
+    background-position: 660px 24px;
+    display: flex;
+  }
+
+  .about {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    width: 100%;
+  }
+
+  .about-part {
+    padding-left: 118px;
+  }
+
+  .about-title {
+    margin: 28px 0 0 0;
+  }
+
+  .about-details {
+    width: 450px;
+    height: 100px;
+  }
+
+  .languages-part {
+    padding-right: 142px;
+  }
+
+  .first-skill {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px 0 40px;
+  }
+
+  .second-skill {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px 0 40px;
+  }
+
+  .third-skill {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px 0 40px;
+  }
+
+  .all-languages {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .desktop-langages {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 12px;
+    padding-top: 12px;
+    height: 120px;
+    width: 122px;
+  }
+
+  .desktop-language-text {
+    margin: 12px 0 0 0;
+    padding-right: 20px;
+  }
+
+  .contact-form {
+    grid-column: 1/3;
+    background-image: url("images/contact\ form\ background\ shapes\(1\).svg");
+    width: 98.3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+  }
+
+  .contact-form-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact-title {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .contact-details {
+    width: 40%;
+  }
+
+  .contact-form-list {
+    margin: 0;
+    width: 450px;
+  }
+
+  input {
+    width: 450px;
+  }
+
+  textarea {
+    width: 450px;
+  }
+
+  .contact-btn {
+    align-self: center;
+  }
+}
