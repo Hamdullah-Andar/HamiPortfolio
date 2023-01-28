@@ -525,6 +525,14 @@ textarea {
     margin: 25px auto 0 154px;
   }
 
+  .logo:hover {
+    transform: rotate(90deg);
+  }
+
+  .menu-inimation:hover {
+    transform: scale(1.5);
+  }
+
   main {
     background-image: none;
     background-image: url("images/desktop-Header-bg.svg"), url("images/desktop-header-background-shape.svg");
