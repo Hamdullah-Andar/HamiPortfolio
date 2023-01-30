@@ -88,8 +88,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://hamdullah-andar.github.io/HamiPortfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,8 +168,6 @@ Example command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add New Projects]**
 <!-- - [ ] **[new_feature_2]** -->
