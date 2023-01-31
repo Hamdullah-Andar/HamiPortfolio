@@ -72,6 +72,22 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Fully Function Contact Form]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- live demo -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://hamdullah-andar.github.io/HamiPortfolio/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -145,11 +161,15 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add New Projects]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
-
-## Live Demo <a name="livedeomo"></a>
-
-https://hamdullah-andar.github.io/HamiPortfolio/
 
 ## 🤝 Contributing <a name="contributing"></a>
 
