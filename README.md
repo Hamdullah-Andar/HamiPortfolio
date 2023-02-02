@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Portfolio] <a name="about-project"></a>
 
 
-**[Portfolio]** project have all different section including main, projects and contact form for the mobile and desktop version
+**[Portfolio]** project have all different section including main, projects and contact form for the mobile and desktop version (use for peer to peer code review)
 
 
 ## 🛠 Built With <a name="HTML, CSS"></a>
