@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Portfolio] <a name="about-project"></a>
 
 
-**[Portfolio]** project have all different section including main, projects and contact form for the mobile and desktop version
+**[Portfolio]** project have all different section including main, projects and contact form for the mobile and desktop version and recently I have added the mobile version to it
 
 
 ## 🛠 Built With <a name="HTML, CSS"></a>
@@ -158,6 +158,11 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/HamdullahAndar)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 
+👤 **Iheagwara Augustine**
+
+- GitHub: [@githubhandle](https://github.com/stino-x)
+- Twitter: [@twitterhandle](https://twitter.com/Stino_x_Uncaged)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,6 +197,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank...
+@stino-x
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
