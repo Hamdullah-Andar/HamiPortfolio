@@ -32,5 +32,6 @@ MobileLinks.addEventListener('click', (e) => {
   if (e.target.matches('a')) {
     mobileNavigation.classList.toggle('close');
   }
+  cleanness();
 });
 
